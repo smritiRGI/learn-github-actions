@@ -1,6 +1,7 @@
 {
   "name": "github-actions-nod",
   "version": "1.0.0",
+  "type": "module",
   "description": "a test project to undestand the github actions",
   "main": "index.js",
   "scripts": {
@@ -8,7 +9,6 @@
   },
   "author": "Smriti Rastogi",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
     "express": "^4.18.2"
   }
